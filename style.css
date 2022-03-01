@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding-top: 600px;
+    padding-top: 650px;
    
 text-align: center;
     background-color:#939fdb;
@@ -12,7 +12,7 @@ color: pink;
  padding-right: 10px;
  padding-left: 10px;
  padding-bottom: 10px;
-width: 300px;
+width: 360px;
   margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 10%;
@@ -25,7 +25,7 @@ img{    padding-top: 10px;
  padding-right: 10px;
  padding-left: 10px;
  padding-bottom: 10px;
-width: 500px;
+width: 400px;
   margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 10%;
@@ -119,11 +119,11 @@ html {
 	  padding-top: 10px;
  padding-right: 10px;
  padding-left: 10px;
- padding-bottom: 10px;
+ padding-bottom: 20px;
   margin-top: 25px;
  border-radius: 10%;
 border-color: #FF1744;	
   margin-right: 15px;
 	  margin-left: 15px;
-	
+	  margin-bottom: 15px;
 	}
